@@ -1,7 +1,7 @@
 ## Stylish Stiles - Renewed
 
 <p align="center">
-<a align="center"><img src="https://i.imgur.com/XKmoGZn.gif" alt="Visual showcase of every type of stile" width="1920" height="460"></a>
+<a align="center"><img src="https://i.imgur.com/XKmoGZn.gif" alt="Visual showcase of every type of stile" width="500" height="123"></a>
 </p>
 
 Are you sick and tired of placing carpets on fences? Me too! No longer shall our immersion be torn asunder!
