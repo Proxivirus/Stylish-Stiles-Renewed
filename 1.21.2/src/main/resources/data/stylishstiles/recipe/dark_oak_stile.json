@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "wooden_stile",
+    "pattern": [
+        "WWW",
+        "W#W"
+    ],
+    "key": {
+        "#": "minecraft:stick",
+        "W": "minecraft:dark_oak_planks"
+        },
+    "result": {
+        "id": "stylishstiles:dark_oak_stile",
+        "count": 1
+    }
+}

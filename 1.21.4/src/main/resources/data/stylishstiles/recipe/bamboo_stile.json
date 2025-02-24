@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "wooden_stile",
+    "pattern": [
+        "WWW",
+        "W#W"
+    ],
+    "key": {
+        "#": "minecraft:stick",
+        "W": "minecraft:bamboo_planks"
+        },
+    "result": {
+        "id": "stylishstiles:bamboo_stile",
+        "count": 1
+    }
+}

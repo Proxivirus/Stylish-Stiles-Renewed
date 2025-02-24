@@ -1,0 +1,47 @@
+{
+	"schemaVersion": 1,
+	"id": "stylishstiles",
+	"version": "${version}",
+	"name": "StylishStiles",
+	"description": "Adds the new Stile block for getting over fences!",
+	"authors": [
+		"WeaverFever",
+		"Proxi"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/stylish-stiles-renewed",
+		"issues": "https://github.com/Proxivirus/Stylish-Stiles-Renewed/issues",
+		"sources": "https://github.com/Proxivirus/Stylish-Stiles-Renewed"
+	},
+	"license": "MIT",
+	"icon": "assets/stylishstiles/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.weaverfever.stylishstiles.StylishStiles"
+		],
+		"client": [
+			"net.weaverfever.stylishstiles.StylishStilesClient"
+		],
+		"fabric-datagen": [
+			"net.weaverfever.stylishstiles.StylishStilesDataGenerator"
+		]
+	},
+	"mixins": [
+		"stylishstiles.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": ">=1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"Discord": "https://discord.gg/cYNmSgpdTC",
+				"Modrinth": "https://modrinth.com/mod/stylish-stiles-renewed"
+			}
+		}
+	}
+}

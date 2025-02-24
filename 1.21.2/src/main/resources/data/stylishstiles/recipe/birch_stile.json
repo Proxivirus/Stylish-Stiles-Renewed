@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "wooden_stile",
+    "pattern": [
+        "WWW",
+        "W#W"
+    ],
+    "key": {
+        "#": "minecraft:stick",
+        "W": "minecraft:birch_planks"
+        },
+    "result": {
+        "id": "stylishstiles:birch_stile",
+        "count": 1
+    }
+}
