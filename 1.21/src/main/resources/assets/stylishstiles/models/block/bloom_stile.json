@@ -1,0 +1,6 @@
+{
+  "parent": "stylishstiles:block/fence_post_stile",
+  "textures": {
+    "texture": "deeperdarker:block/bloom_planks"
+  }
+}
