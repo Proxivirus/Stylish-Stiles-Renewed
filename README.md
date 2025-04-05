@@ -14,7 +14,7 @@ Fully integrates with both vanilla AND supported modded fences (mod support list
 <details>
 <summary>Supported Mods</summary>
 
-### (soon) [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
+### [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
 
 </details>
 
