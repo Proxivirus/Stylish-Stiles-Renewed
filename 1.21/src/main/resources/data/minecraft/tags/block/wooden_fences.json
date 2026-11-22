@@ -12,7 +12,7 @@
     "stylishstiles:mangrove_stile",
     "stylishstiles:bamboo_stile",
     "stylishstiles:cherry_stile",
-	"stylishstiles:bloom_stile",
-	"stylishstiles:echo_stile"
+	{"id": "stylishstiles:bloom_stile", "required": false},
+	{"id": "stylishstiles:echo_stile", "required": false}
   ]
 }
