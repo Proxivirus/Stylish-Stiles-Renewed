@@ -11,7 +11,7 @@ base {
 }
 
 repositories {
-	maven {url = 'https://jitpack.io'}
+	maven { url = "https://api.modrinth.com/maven" }
 }
 
 fabricApi {
@@ -27,13 +27,7 @@ dependencies {
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
-	modCompileOnly("com.github.KyaniteMods:DeeperAndDarker:fabric-1.21-SNAPSHOT") {
-		exclude group: 'net.kyrptonaught'
-		exclude group: 'io.wispforest'
-		exclude group: 'show-me-your-skin'
-		exclude group: 'nl.enjarai'
-		exclude group: 'dev.onyxstudios.cardinal-components-api'
-	}
+	modCompileOnly "maven.modrinth:deeperdarker:${project.deeperdarker_version}"
 	
 }
 
